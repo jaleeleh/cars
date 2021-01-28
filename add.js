@@ -18,15 +18,16 @@ if(message=='yes'){
 } */
 
 var brand = prompt('whats carbrand would you like to rent: toyota or hyundai or ford?');
-var theCar='';
+
 
 
 while(brand !=='toyota' && brand!=='ford' && brand!=='huyndai'){
+ 
     brand=prompt('please you have to write one of them  ')
 }
+var theCar='';
 if(brand=='toyota'){
     theCar= '<img src="images/toyota.jpg" />';
-
 }
 else if(brand=='hyundai'){
     theCar= '<img src="images/hyundai.jpg" />';
