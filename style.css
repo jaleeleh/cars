@@ -1,0 +1,129 @@
+header{background-color: black;
+    /* display: flex; */
+   height: 200px;
+   width: 100%;
+   
+   }
+   h1{
+       font-family:cursive;
+        color: blanchedalmond;
+      
+       float: left;
+       margin-left: 100px;
+       line-height: 200px;
+      /* text-align: center; */
+   /* padding: 20px 0 70px 60px; */
+   /* margin-left:100px; */
+   }
+   #logo{
+       display: block;
+       width: 120px;
+       height:100px;
+       float: left;
+    margin-top: 50px;
+
+    }
+
+   nav {
+
+    float: right;
+    height: 100px;
+    line-height: 200px;
+    margin-right: 150px;
+    font-size: 25px ;
+   }
+   
+   header nav ul li {
+
+       display: inline-block;
+        margin-left: 10px;
+       
+   }
+   a{
+       color: silver;
+   }
+   main{
+    background-color:bisque;
+}
+   p{
+    font-family:cursive;
+    font-size:x-large;
+    text-align:center;
+    text-shadow: khaki;
+    /* display: flex;
+   */
+   
+    
+    
+       }
+       h3{
+            font-size:xxx-large;
+
+        text-align:left;
+        font-family:cursive;
+        color:burlywood;
+       }
+
+
+
+   nav {
+
+    float: right;
+    height: 100px;
+    line-height: 200px;
+    margin-right: 150px;
+    font-size: 25px ;
+   }
+   
+   header nav ul li {
+
+       display: inline-block;
+        margin-left: 10px;
+       
+   }
+   a{
+       color: silver;
+   }
+   main{
+    background-color:bisque;
+}
+   p{
+    font-family:cursive;
+    font-size:x-large;
+    text-align:center;
+    text-shadow: khaki;
+    /* display: flex;
+   */
+   
+    
+    
+       }
+       h3{
+            font-size:xxx-large;
+
+        text-align:left;
+        font-family:"Lucida Console", "Courier New", monospace;;
+        color:burlywood;
+          
+       }
+
+        main ul li{
+
+            font-family:cursive;
+            font-size:x-large;
+            text-align:left;
+             text-shadow: 2px 2px;
+
+        }
+        main img{
+            width:1200px;
+            height:300px;
+        }
+    
+       
+    
+.clearfix{
+    clear: both;
+}
+            
+      
